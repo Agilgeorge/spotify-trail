@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+
+
+    <diV class="spot">
+        <img src="spotify.png" id="ab">
+        <h1>Spotify</h1>
+        <P>FOR YOU </P>
+        <P>PLAYLISTS</P>
+        <P>CONCERTS</P>
+
+
+    </diV>
+    <div class="motto">
+        <p>alan walker</p>
+       
+       
+        <p>philips</p>
+        <p>katy pery</p>
+        <p>eric ethridge</p>
+        <p>lukas graham</p>
+    </div>
+</body>
+</html>
